@@ -1,4 +1,4 @@
-# reverse finger (old project)
+# robot finger reverse (old project)
 
 ロボットハンドの指部分について、既存プロジェクトからリバースエンジニアリングを試みました。  
 ExcelとProcessingを用いて事前にリンク長などのパラメータを解析・シミュレーションし、結果をもとにFusion360を用いて3Dモデルデータを作成の後、FlashForge Finderにて印刷しました。
